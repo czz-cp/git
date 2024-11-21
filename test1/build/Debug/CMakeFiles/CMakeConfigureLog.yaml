@@ -1,0 +1,24 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/usr/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake:228 (message)"
+      - "CMakeLists.txt:31 (enable_language)"
+    message: |
+      The target system is: Generic -  - arm
+      The host system is: Linux - 6.8.0-48-generic - x86_64
+...
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/usr/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake:200 (message)"
+      - "CMakeLists.txt:31 (enable_language)"
+    message: |
+      The target system is: Generic -  - arm
+      The host system is: Linux - 6.11.0-9-generic - x86_64
+...

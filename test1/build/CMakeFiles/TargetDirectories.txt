@@ -1,0 +1,6 @@
+/home/czhedu/cubemxtest/test1/build/CMakeFiles/test1.dir
+/home/czhedu/cubemxtest/test1/build/CMakeFiles/flash.dir
+/home/czhedu/cubemxtest/test1/build/CMakeFiles/edit_cache.dir
+/home/czhedu/cubemxtest/test1/build/CMakeFiles/rebuild_cache.dir
+/home/czhedu/cubemxtest/test1/build/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/czhedu/cubemxtest/test1/build/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
